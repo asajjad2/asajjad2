@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @asajjad2
+- 👋 Hey, I am Areeb!
 - 👀 I’m interested in web design & development, machine-learning and RTS games!
 - 🌱 I’m currently learning Front-End development.
 - 📫 Connect with me on linkedIn:: www.linkedin.com/in/areeb-sajjad-985519210
